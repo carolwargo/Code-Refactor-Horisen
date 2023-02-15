@@ -88,15 +88,15 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #b4b5b6;
 }
-article {
+aside section {
     margin-bottom: 32px;
     color: #030303;
 }
-article h3 {
+aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-article img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
