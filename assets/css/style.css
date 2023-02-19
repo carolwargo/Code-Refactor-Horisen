@@ -92,7 +92,7 @@ aside {
     background-color: #b4b5b6;
 }
 aside section {
-    margin-bottom: 32px;
+    margin-bottom: 15px;
     color: #030303; /*Note: background-light gray, text-black to separate from main content & contrast*/
 }
 aside section h3 {
