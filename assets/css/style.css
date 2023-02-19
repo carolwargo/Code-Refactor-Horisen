@@ -41,13 +41,17 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a { transition:all 0.5s ease-out; 
+a { 
+    transition: all 0.5s ease-out; 
     color: #ffffff;
     text-decoration: none;
 }
-a:hover{ transition:all 0.5s ease-out;
+a:hover { 
+    transition: all 0.5s ease-out;
     text-decoration: underline;
     color: crimson;  /* Notes: Hover effect-links set to transition between text color and underline on hover.*/
+}
+
 p {
     font-size: 16px;
 }
