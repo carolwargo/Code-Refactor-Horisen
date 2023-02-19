@@ -1,5 +1,5 @@
 # HORISEN- Marketing Agency
-Challenge 1- HTML, CSS, and Git: Code Refactor
+Challenge 1- HTML, CSS, and Git: Code Refactor 
 
 Review of the index.html completed-Codebase changes made to follow WCAG accessibility standards, to optimize search engines and limit liability. 
 
